@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Arwa Ghazouani</h1>
 <h3 align="center">A passionate developer Python and Data Scientist /IA from Tunisia</h3>
-<img algin="right" alt="coding" width="400" src="![image](https://github.com/ARWA8a/ARWA8a/assets/135421674/7a59284b-800f-4f17-b404-4f57f68d5810)
+<img algin="right" alt="coding" width="400" src="![image](https://github.com/ARWA8a/ARWA8a/assets/135421674/7a59284b-800f-4f17-b404-4f57f68d5810)"
 "
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arwa8a&label=Profile%20views&color=0e75b6&style=flat" alt="arwa8a" /> </p>
 
